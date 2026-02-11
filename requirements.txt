@@ -1,0 +1,9 @@
+numpy>=1.26
+psutil>=5.9
+rich>=13.7
+GPUtil>=1.4.0
+nvidia-ml-py>=12.560.30
+
+# Optional GPU backends. Install one of these for CUDA stress testing.
+# torch
+# cupy-cuda12x
